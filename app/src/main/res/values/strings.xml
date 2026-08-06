@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bloqueador</string>
+    <string name="accessibility_service_description">Detecta quando você abre um app bloqueado para mostrar a tela de foco.</string>
+</resources>
